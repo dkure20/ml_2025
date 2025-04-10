@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vnadieieva/ml_2025/mlruns/0/420fea3281074809aa4a99f10e817197/artifacts
+end_time: 1743952554246
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 420fea3281074809aa4a99f10e817197
+run_name: data_cleaning
+run_uuid: 420fea3281074809aa4a99f10e817197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743952554132
+status: 3
+tags: []
+user_id: vnadieieva
